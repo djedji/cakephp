@@ -1,0 +1,16 @@
+html {
+  background: $bg-global;
+}
+
+body {
+  background: $bg-global;
+  color: $color-font-global;
+  position: relative;
+}
+
+.container {
+    background: #FEFEFE;
+    box-shadow: 0 0 15px #747474;
+    width: 1170px;
+    padding-bottom: 16px;
+}
