@@ -1,6 +1,9 @@
 # User specific & automatically generated files #
 #################################################
-/base-2.4.7/.idea/*
+*/.idea/*
+*/lib/*
+*/Config/*
+*/Console/*
 
 # OS generated files #
 ######################
