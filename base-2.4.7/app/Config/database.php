@@ -67,7 +67,7 @@ class DATABASE_CONFIG {
 		'host' => 'localhost',
 		'login' => 'root',
 		'password' => '',
-		'database' => 'nothing',
+		'database' => 'test',
 		'prefix' => '',
 		'encoding' => 'utf8'
 	);
